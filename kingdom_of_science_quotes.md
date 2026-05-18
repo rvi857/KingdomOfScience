@@ -357,10 +357,11 @@ Characters whose placeholder quotes in the roster widget should be updated based
 Complete list of every quote currently rendered in `index.html`, organized by in-universe group. Entries marked *[widget-original]* are quotes that originated in the roster widget rather than this research file — kept for narrative flavor even where not externally documented. Lines in italics inside parentheses are narrative placeholders, not quotes.
 
 ### Core Founders
-- **Senku Ishigami** — 3 quotes
-  - "Get excited!"
+- **Senku Ishigami** — 4 quotes
+  - "This is exhilarating. Get excited!"
   - "It's not that there are things science can't explain. You just look for the rules behind those things. Science is just a name for the steady, pain-in-the-ass effort that goes into that."
   - "There is no such thing as a 'useless' person in the Kingdom of Science."
+  - "Humanity isn't going down that easily. Two million years of human history is right here inside me."
 - **Taiju Oki** — 3 quotes
   - "I am in love with Yuzuriha!" *[widget-original — nods to his running confession]*
   - "I will do the heavy lifting!"
@@ -369,10 +370,11 @@ Complete list of every quote currently rendered in `index.html`, organized by in
   - "Craft is all about perseverance!"
 
 ### Ishigami Village
-- **Chrome** — 3 quotes
+- **Chrome** — 4 quotes
   - "I am a sorcerer!" *[widget-original — his intro line]*
   - "Damn! (Yabe!)"
   - "Science is the only way to level the playing field between a genius and a regular person."
+  - "If you can't do it with strength, do it with science. If you can't do it with science, do it with more science!"
 - **Kohaku** — 3 quotes
   - "I will protect everyone — that is what I decided." *[widget-original]*
   - "My blade may find that sharp tongue of yours before either of us knows it."
@@ -395,13 +397,15 @@ Complete list of every quote currently rendered in `index.html`, organized by in
 - **Kokuyo** — *(A man of few words, much respect)*
 
 ### Defectors
-- **Gen Asagiri** — 4 quotes
+- **Gen Asagiri** — 5 quotes
   - "I'm a modern, science-loving sheep." *[widget-original]*
   - "Senku-chan~♫"
   - "No matter which one of you falls, I'll be riding the winning horse."
   - "Forrealz?!? (Jima-de?!?)"
-- **Ukyo Saionji** — 1 quote
+  - "Since before I met you, I've been rather fond of you, Senku-chan — setting aside personal gains."
+- **Ukyo Saionji** — 2 quotes
   - "I won't let anyone die — not even the enemy."
+  - "I want to avoid a world where the revived go on killing one another."
 - **Nikki Hanada** — 1 quote
   - "Lillian Weinberg is a goddess." *[paraphrase — captures her energy; exact phrasing varies]*
 - **Minami Hokutozai** — 1 quote
@@ -411,16 +415,17 @@ Complete list of every quote currently rendered in `index.html`, organized by in
 - **Mirai Shishio** — *(Her existence changed the entire story)* *[revived; accompanies Nikki Hanada]*
 
 ### Modern Revivals
-- **Ryusui Nanami** — 2 quotes
+- **Ryusui Nanami** — 3 quotes
   - "I want it all — every last bit of this world!"
   - "I desire it!"
+  - "I will not give up on anything. Wanting something is justice."
 - **Francois** — 2 quotes
   - "Leave it to me."
   - "Desire = Justice!"
 - **Chelsea** — 2 quotes
   - "I can tell exactly where we are just from the landscape." *[widget-original]*
   - "Freaky! (Hentai!)"
-- **Sai Ogasawara** — 1 quote
+- **Sai Nanami** — 1 quote
   - "Numbers don't lie — let me work it out." *[widget-original]*
 
 ### Former Enemies
@@ -476,4 +481,4 @@ Complete list of every quote currently rendered in `index.html`, organized by in
 
 ---
 
-*Totals: 44 characters · 58 quotes across 32 quoted entries · 12 narrative placeholders.*
+*Totals: 44 characters · 63 quotes across 32 quoted entries · 12 narrative placeholders.*
