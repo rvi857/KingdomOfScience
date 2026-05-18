@@ -375,15 +375,17 @@ Complete list of every quote currently rendered in `index.html`, organized by in
   - "Damn! (Yabe!)"
   - "Science is the only way to level the playing field between a genius and a regular person."
   - "If you can't do it with strength, do it with science. If you can't do it with science, do it with more science!"
-- **Kohaku** — 3 quotes
+- **Kohaku** — 4 quotes
   - "I will protect everyone — that is what I decided." *[widget-original]*
   - "My blade may find that sharp tongue of yours before either of us knows it."
   - "I believe in Senku!"
+  - "The kind of man I'd fall for is one who follows his ideals — step by step, hammering away no matter how long it takes."
 - **Kaseki** — 2 quotes
   - "Incredible... this is incredible!" *[widget-original]*
   - "Now you've got me fired up!"
-- **Suika** — 1 quote
+- **Suika** — 2 quotes
   - "I want to be useful!" *[widget-original — paraphrase of her defining monologue]*
+  - "Sorry it took so long…" *[her line on reviving Senku after years alone in the Solo Stone World arc]*
 - **Kinro** — 2 quotes
   - "Rules exist for a reason." *[widget-original — paraphrase]*
   - "Rules are rules."
@@ -419,9 +421,10 @@ Complete list of every quote currently rendered in `index.html`, organized by in
   - "I want it all — every last bit of this world!"
   - "I desire it!"
   - "I will not give up on anything. Wanting something is justice."
-- **Francois** — 2 quotes
+- **Francois** — 3 quotes
   - "Leave it to me."
   - "Desire = Justice!"
+  - "Le cours de boulangerie de Francois." *[flavor — Francois's in-universe bread course tagline]*
 - **Chelsea** — 2 quotes
   - "I can tell exactly where we are just from the landscape." *[widget-original]*
   - "Freaky! (Hentai!)"
@@ -429,10 +432,12 @@ Complete list of every quote currently rendered in `index.html`, organized by in
   - "Numbers don't lie — let me work it out." *[widget-original]*
 
 ### Former Enemies
-- **Tsukasa Shishio** — 3 quotes
+- **Tsukasa Shishio** — 5 quotes
   - "I want a world where the strong protect the weak." *[widget-original]*
   - "I will kill you, Senku. But I will not lie to you."
   - "You can call it killing, if you want. I'm culling humanity, for the sake of a new world."
+  - "The Stone World is a paradise, untainted by the corruption of the old." *[anarcho-primitivist worldview]*
+  - "Senku… your science is truly… 10 billion percent." *[post-redemption arc evolution]*
 - **Hyoga** — 2 quotes
   - "Emotions are inefficiencies." *[widget-original]*
   - "Proper."
@@ -451,11 +456,14 @@ Complete list of every quote currently rendered in `index.html`, organized by in
   - "I fight for whoever gives me the best deal." *[widget-original]*
 
 ### American Coalition
-- **Xeno Houston Wingfield** — 2 quotes
+- **Xeno Houston Wingfield** — 4 quotes
   - "Science is power — and power belongs to those who wield it wisely." *[widget-original]*
   - "Either he's honest to a fault, or the world's greatest liar." *[Xeno's assessment of Gen — his most-cited line per doc]*
-- **Stanley Snyder** — 1 quote
+  - "Science is power. The cleverest among us could rule over the ignorant masses." *[sharper canon-flavored thesis statement]*
+  - "After ten years… we finally get to work together." *[to Senku on the rocket engine — redemption beat]*
+- **Stanley Snyder** — 2 quotes
   - "I follow orders. That's all."
+  - "Orders from Xeno. Nothing else matters." *[sharper — names Xeno specifically, his actual moral anchor]*
 - **Brody Dudley** — 1 quote
   - "There isn't a single person on this planet who deserves to die!"
 - **Joel Gear** — 1 quote
@@ -481,4 +489,4 @@ Complete list of every quote currently rendered in `index.html`, organized by in
 
 ---
 
-*Totals: 44 characters · 63 quotes across 32 quoted entries · 12 narrative placeholders.*
+*Totals: 44 characters · 71 quotes across 32 quoted entries · 12 narrative placeholders.*
