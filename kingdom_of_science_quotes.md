@@ -395,10 +395,11 @@ Complete list of every quote currently rendered in `index.html`, organized by in
 - **Kokuyo** — *(A man of few words, much respect)*
 
 ### Defectors
-- **Gen Asagiri** — 3 quotes
+- **Gen Asagiri** — 4 quotes
   - "I'm a modern, science-loving sheep." *[widget-original]*
   - "Senku-chan~♫"
   - "No matter which one of you falls, I'll be riding the winning horse."
+  - "Forrealz?!? (Jima-de?!?)"
 - **Ukyo Saionji** — 1 quote
   - "I won't let anyone die — not even the enemy."
 - **Nikki Hanada** — 1 quote
@@ -407,6 +408,7 @@ Complete list of every quote currently rendered in `index.html`, organized by in
   - "This is the scoop of human history." *[widget-original]*
 - **Yo Uei** — 1 quote
   - "I'm just in it for myself — don't get me wrong." *[widget-original]*
+- **Mirai Shishio** — *(Her existence changed the entire story)* *[revived; accompanies Nikki Hanada]*
 
 ### Modern Revivals
 - **Ryusui Nanami** — 2 quotes
@@ -415,8 +417,9 @@ Complete list of every quote currently rendered in `index.html`, organized by in
 - **Francois** — 2 quotes
   - "Leave it to me."
   - "Desire = Justice!"
-- **Chelsea** — 1 quote
+- **Chelsea** — 2 quotes
   - "I can tell exactly where we are just from the landscape." *[widget-original]*
+  - "Freaky! (Hentai!)"
 - **Sai Ogasawara** — 1 quote
   - "Numbers don't lie — let me work it out." *[widget-original]*
 
@@ -455,8 +458,9 @@ Complete list of every quote currently rendered in `index.html`, organized by in
 - **Maya Biggs** — *(Actions define her)*
 - **Charlotte** — *(Part of the coalition crew)*
 - **Leonard Maxwell** — *(Works best behind the scenes)*
-- **Luna Wright** — 1 quote
+- **Luna Wright** — 2 quotes
   - "This is not what I signed up for." *[widget-original]*
+  - "I'm the cool-headed Luna! I'm the capable Luna!"
 - **Max & Carlos** — *(Reliable crew members)*
 
 ### ISS Crew (Founding Generation)
@@ -470,9 +474,6 @@ Complete list of every quote currently rendered in `index.html`, organized by in
 - **Darya Nikitina** — *(Strength of will, strength of hands)*
 - **Shamil Volkov** — *(Steady hands when it mattered most)*
 
-### Historical / Symbolic
-- **Mirai Shishio** — *(Her existence changed the entire story)*
-
 ---
 
-*Totals: 44 characters · 55 quotes across 32 quoted entries · 12 narrative placeholders.*
+*Totals: 44 characters · 58 quotes across 32 quoted entries · 12 narrative placeholders.*
